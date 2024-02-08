@@ -1,0 +1,23 @@
+h1{
+	margin-left: 40%;
+    margin-right: 40%;
+    border: solid green 1px;
+    padding: 12px;
+    border-radius: 10px;
+    
+}
+
+form{
+	margin-left: 35%;
+	margin-right: 35%;
+
+	padding: 7px;
+	border:solid green 1px;
+
+}
+#s{
+	margin-left:12%;
+	margin-right:10% ;
+	margin-top: 10%;
+	margin-bottom:10% ;
+}
